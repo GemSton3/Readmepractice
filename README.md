@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hey there!  I'm __**Gem**__, an enthusiast learner diving headfirst into the world of coding and software development. I'm passionate about learning and creating, and I'm excited to embark on this journey of discovery in the vast realm of technology.
+Hey there!  I'm __**Gem**__, an enthusiastic learner diving headfirst into the world of coding and software development. I'm passionate about learning and creating, and I'm excited to embark on this journey of discovery in the vast realm of technology.
 
 ## About Me
 
